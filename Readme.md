@@ -8,7 +8,7 @@ Tests your general knowledge. As one of the most popular types of apps on the ap
 Download or clone this repo by using the link below:
 
 ```
-
+https://github.com/raja53a/Quizzler.git
 ```
 **Step 2:**
 
@@ -27,3 +27,6 @@ flutter run
 ```
 
 ## Snapshot
+![Screenshot](Quiz_1.jpeg) 
+![Screenshot](Quiz_2.jpeg)
+![Screenshot](Quiz_3.jpeg)
